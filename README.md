@@ -1,2 +1,2 @@
-# p.urplehayes.com
-p.urplehayes.com
+# Purple Hayes
+Web design, development and photography

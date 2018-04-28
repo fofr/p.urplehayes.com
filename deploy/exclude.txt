@@ -1,0 +1,6 @@
+.DS_Store
+.well-known
+.well-known/*
+deploy/
+*.md
+.git/
